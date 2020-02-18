@@ -1,4 +1,4 @@
-#simple usage: 
+#Simple usage:  
 python3 graph.py 
 
 #Description
