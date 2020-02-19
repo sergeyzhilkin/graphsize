@@ -6,7 +6,7 @@ Function 'fsize' accepts matrix (list of lists with 1 and 0 characters), calcula
 Figure consists of '1' charachters connected vertically or horizontally (not diagonally)
 Figure also can be a single '1' character 
 
-for example here we are have three figures: square, cross and single 1.
+for example here we have three figures: square, cross and single 1.
 
 a = [  
          [1,1,0,0,1],  
