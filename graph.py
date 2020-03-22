@@ -1,4 +1,3 @@
-
 def fsize(a):
     f = []  # list of figures
      
